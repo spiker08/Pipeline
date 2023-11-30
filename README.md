@@ -1,13 +1,12 @@
 {
-  "name": "pipeline",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "lab pipeline",
+  "description": "Your project description",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "spiker",
+  "author": "Your Name",
   "license": "MIT"
 }
